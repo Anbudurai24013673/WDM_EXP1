@@ -53,6 +53,12 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+### EMPLOYEE:
+<img width="1920" height="1141" alt="screenshot1" src="https://github.com/user-attachments/assets/0da50bdf-991e-4a27-bfe0-3293dcbe46af" />
+
+### WEATHER :
+<img width="1920" height="1143" alt="screenshot2" src="https://github.com/user-attachments/assets/5be4fc93-28df-4be8-a0cd-c8c2c165644d" />
+
 
 
 
@@ -75,6 +81,11 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+### EMPLOYEE:
+<img width="1920" height="1200" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/f1ae5910-79de-4812-a2b8-33ca449f5d83" />
+### WEATHER :
+<img width="1920" height="1200" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/7627f24e-f828-4554-9bc3-cb69b74158e4" />
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +102,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+### EMPLOYEE:
+<img width="1920" height="1200" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/0375affb-c7e5-4822-8e89-b675033610d3" />
+### WEATHER :
+<img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/3d295d8a-043a-496e-8e5c-caa0df8e0853" />
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +123,13 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+### EMPLOYEE:
+<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/74d4e459-1426-4596-8ed9-8ccf92b5be05" />
+
+### WEATHER :
+
+<img width="1920" height="1200" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/c0e890f1-0ace-4bd3-ba2f-f77e7db7c9db" />
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
